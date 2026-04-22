@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+flipkart_raw.html
+shopsy_raw.html
+shopsy_headphones.html
+amazon_raw.html
+amazon_live.html
